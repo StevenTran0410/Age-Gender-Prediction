@@ -8,5 +8,6 @@ Note: In this project the model was a little bit overfit. In order to make it le
 
 Update:
 21/4/23: Added Ultils and Webcam file. These are just the very first file that using model so the accuracy is not very high. Will continue to develope.
+27/4/23: Added temporary report file.
 
 My contact: steven0410leminh@gmail.com
