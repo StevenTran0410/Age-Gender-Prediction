@@ -14,4 +14,6 @@ Update:
 
 29/4/23: Added some information for report file.
 
+6/5/23: Added GUI Webcam app and a final report. Temporary close project
+
 My contact: steven0410leminh@gmail.com
